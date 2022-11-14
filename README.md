@@ -5,5 +5,5 @@
 
 _please download using command_
 ```
-git clone https://halloteam-flx@github.com/halloteam-flx/ESP32C3
+git clone https://halloteam-flx@github.com/halloteam-flx/AI-labor
 ```
