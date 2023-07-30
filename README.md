@@ -1,5 +1,5 @@
-# learning materials
-* aiming at innovation based on machine learning/deep learning algorithm
+# a heartful thank-you note to my colleague Mr. Benjamin Poppe
+* machine learning/deep learning algorithm
 * practical laboratory / examples
 
 
