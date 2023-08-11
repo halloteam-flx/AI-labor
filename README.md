@@ -1,4 +1,4 @@
-# a heartful thank-you note to my colleague Mr. Benjamin Poppe
+# to Benni
 * machine learning/deep learning algorithm
 * practical laboratory / examples
 
